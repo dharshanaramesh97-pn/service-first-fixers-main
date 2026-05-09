@@ -63,13 +63,13 @@ const HeroSection = () => {
             <span className="text-accent">Repair Services</span><br />
             At Your Doorstep
           </h1>
-          <p className="text-lg text-[hsl(215,20%,80%)] max-w-lg mb-8">
+          <p className="text-lg text-[hsl(218, 4%, 58%)] max-w-lg mb-8">
             Trusted by thousands of households. We repair Refrigerators, Washing Machines &amp; RO Water Purifiers with a 1-Year Service Warranty.
           </p>
           <div className="flex flex-wrap gap-6 text-sm text-[hsl(215,20%,75%)]">
             <div className="flex items-center gap-2">
               <div className="w-2.5 h-2.5 rounded-full bg-accent" />
-              8 Expert Technicians
+              10 + Expert Technicians
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2.5 h-2.5 rounded-full bg-gold" />

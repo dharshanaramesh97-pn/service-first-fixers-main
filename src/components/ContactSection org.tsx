@@ -6,9 +6,7 @@ const ContactSection = () => (
       <div className="text-center max-w-2xl mx-auto mb-12">
         <span className="text-accent font-semibold text-sm uppercase tracking-widest">Get In Touch</span>
         <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-3 mb-4">Contact Us</h2>
-        <p className="text-muted-foreground">Reach out anytime — we're here to help 24/7.
-          we provide a door step services
-        </p>
+        <p className="text-muted-foreground">Reach out anytime — we're here to help 24/7.</p>
       </div>
 
       <div className="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
@@ -32,7 +30,7 @@ const ContactSection = () => (
 
         {/* Office Address Card - Click panna Map open aagum */}
         <a 
-          href="https://maps.google.com/?cid=9952956873532909624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ" 
+          href="https://maps.app.goo.gl/6WdK72XoT8Y1U7pM7" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="glass-card rounded-xl p-8 text-center hover:shadow-xl transition-shadow group cursor-pointer"
