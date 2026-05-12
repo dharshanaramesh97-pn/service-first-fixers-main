@@ -29,9 +29,6 @@ const Header = () => {
     >
       <div className="container mx-auto flex items-center justify-between py-4">
         <a href="#home" className="flex items-center gap-2">
-          <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
-            <span className="text-primary-foreground font-bold text-lg">SR</span>
-          </div>
           <span className={`font-bold text-xl ${scrolled ? "text-foreground" : "text-card"}`}>
             MM Refrigeration
           </span>
