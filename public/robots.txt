@@ -1,14 +1,32 @@
-User-agent: Googlebot
-Allow: /
+# Robots.txt for MM Refrigeration - 24/7 Appliance Repair Services
+# https://mmrefrigeration.co.in/robots.txt
 
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
+# Default rules for all bots
 User-agent: *
 Allow: /
+Disallow: /admin
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /*?*page=
+Disallow: /search
+Disallow: /api
+
+# Crawl-delay (in seconds)
+Crawl-delay: 1
+
+# Request-rate
+Request-rate: 1/1s
+
+# Googlebot - No crawl delay
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://mmrefrigeration.co.in/sitemap.xml
+Sitemap: https://mmrefrigeration.co.in/sitemap-pages.xml
