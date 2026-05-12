@@ -11,7 +11,7 @@ const ContactSection = () => (
 
       <div className="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
         {/* Call Us Card */}
-        <a href="tel:+916369680511" className="glass-card rounded-xl p-8 text-center hover:shadow-xl transition-shadow group">
+        <a href="tel:+919894159805" className="glass-card rounded-xl p-8 text-center hover:shadow-xl transition-shadow group">
           <div className="w-14 h-14 rounded-xl bg-primary/10 flex items-center justify-center mx-auto mb-4 group-hover:bg-primary/20 transition-colors">
             <Phone className="w-7 h-7 text-primary" />
           </div>
@@ -30,7 +30,7 @@ const ContactSection = () => (
 
         {/* Office Address Card - Click panna Map open aagum */}
         <a 
-          href="https://maps.app.goo.gl/6WdK72XoT8Y1U7pM7" 
+          href="https://maps.app.goo.gl/cKQgb6dhPNe3nnsT7?g_st=ac" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="glass-card rounded-xl p-8 text-center hover:shadow-xl transition-shadow group cursor-pointer"

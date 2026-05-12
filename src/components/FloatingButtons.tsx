@@ -4,10 +4,10 @@ const FloatingButtons = () => (
   <div className="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
     {/* WhatsApp */}
     <a
-      href="https://wa.me/916369680511?text=Hi%2C%20I%20need%20a%20repair%20service.%20Please%20contact%20me."
+      href="https://wa.me/919894159805?text=Hi%2C%20I%20need%20a%20repair%20service.%20Please%20contact%20me."
       target="_blank"
       rel="noopener noreferrer"
-      className="w-14 h-14 rounded-full bg-[hsl(142,70%,40%)] flex items-center justify-center shadow-lg hover:scale-110 transition-transform"
+      className="w-14 h-14 rounded-full bg-[hsl(143, 13%, 73%)] flex items-center justify-center shadow-lg hover:scale-110 transition-transform"
       aria-label="Chat on WhatsApp"
     >
       <svg className="w-7 h-7 fill-[hsl(0,0%,100%)]" viewBox="0 0 24 24">
@@ -17,7 +17,7 @@ const FloatingButtons = () => (
 
     {/* Phone Call */}
     <a
-      href="tel:+916369680511"
+      href="tel:+919894159805"
       className="w-14 h-14 rounded-full bg-primary flex items-center justify-center shadow-lg hover:scale-110 transition-transform animate-pulse-glow"
       aria-label="Call now"
     >
