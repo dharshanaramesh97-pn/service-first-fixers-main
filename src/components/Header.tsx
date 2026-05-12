@@ -33,7 +33,7 @@ const Header = () => {
             <span className="text-primary-foreground font-bold text-lg">SR</span>
           </div>
           <span className={`font-bold text-xl ${scrolled ? "text-foreground" : "text-card"}`}>
-            STAR Refrigeration
+            MM Refrigeration
           </span>
         </a>
 

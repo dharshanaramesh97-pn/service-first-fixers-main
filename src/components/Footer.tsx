@@ -9,7 +9,7 @@ const Footer = () => (
             <div className="w-9 h-9 rounded-lg bg-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-sm">SR</span>
             </div>
-            <span className="font-bold text-lg text-background">STAR Refrigeration</span>
+            <span className="font-bold text-lg text-background">MM Refrigeration</span>
           </div>
           <p className="text-sm leading-relaxed">
             Your trusted partner for 24/7 appliance repair — Refrigerators, Washing Machines &amp; RO Water Purifiers. All brands, 1-year warranty.
@@ -26,7 +26,7 @@ const Footer = () => (
         </div>
       </div>
       <div className="border-t border-background/10 pt-6 text-center text-xs">
-        <p>© {new Date().getFullYear()} STAR Refrigeration. All rights reserved. | No 12, Kasthuri Complex, Ganapathy, Coimbatore, Tamil Nadu, India</p>
+        <p>© {new Date().getFullYear()} MM Refrigeration. All rights reserved. | No 12, Kasthuri Complex, Ganapathy, Coimbatore, Tamil Nadu, India</p>
       </div>
     </div>
   </footer>

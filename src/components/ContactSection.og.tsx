@@ -30,7 +30,7 @@ const ContactSection = () => (
 
         {/* Office Address Card - Click panna Map open aagum */}
         <a 
-          href="https://maps.app.goo.gl/cKQgb6dhPNe3nnsT7?g_st=ac" 
+          href="https://maps.app.goo.gl/jKYCwCQPLgSPgouF9" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="glass-card rounded-xl p-8 text-center hover:shadow-xl transition-shadow group cursor-pointer"
